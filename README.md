@@ -1,7 +1,5 @@
-main [@ENClRCLEMENT](https://github.com/ENClRCLEMENT)
-
 <details>
-<summary>my other alt accounts</summary>
+<summary>mine</summary>
 
   [@observingpizzapunch](https://github.com/observingpizzapunch) [@pandabuylevis](https://github.com/pandabuylevis) [@tripodgoat](https://github.com/tripodgoat)
 </details>
