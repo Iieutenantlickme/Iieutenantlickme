@@ -1,6 +1,8 @@
 <img src="https://files.catbox.moe/dh02g8.png" alt="Description" width="100">
 
-outrun my gun!
+better outrun my gun!
 
-[@observingpizzapunch](https://github.com/observingpizzapunch) [@pandabuylevis](https://github.com/pandabuylevis) [@tripodgoat](https://github.com/tripodgoat)
+[@observingpizzapunch](https://github.com/observingpizzapunch)
+
+[@pandabuylevis](https://github.com/pandabuylevis) [@tripodgoat](https://github.com/tripodgoat)
 
